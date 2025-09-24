@@ -36,7 +36,7 @@ El objetivo es construir un modelo que permita **predecir el nivel de estrés** 
 ---
 
 ## 5) Modelos aplicados
-Se compararon dos modelos vistos en clases:
+Se eligieron **Regresión Lineal y Random Forest Regressor** porque representan dos enfoques complementarios: la Regresión Lineal funciona como un modelo base, simple e interpretable, que permite observar de manera directa la relación entre el uso de tecnología y los niveles de estrés; mientras que Random Forest, al ser un modelo no lineal, captura relaciones más complejas entre las variables, tolera mejor la presencia de outliers y distribuciones asimétricas, y ofrece además la ventaja de identificar las variables más influyentes en la predicción
 
 - **Regresión Lineal**  
   ✔️ Interpretable, sirve como baseline.
